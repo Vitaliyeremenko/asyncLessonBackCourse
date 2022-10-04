@@ -1,0 +1,24 @@
+{
+  "name": "asyncback",
+  "version": "1.0.0",
+  "description": "1. Run `npm install` 2. Run `npm run start`",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitaliyeremenko/asyncLessonBackCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitaliyeremenko/asyncLessonBackCourse/issues"
+  },
+  "homepage": "https://github.com/Vitaliyeremenko/asyncLessonBackCourse#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5"
+  }
+}
